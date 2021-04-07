@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPW310DKyjKLr0ECWFcKwE69OUgVtJTxfR2a8rJb8Wxel7K15_6n8TSZ-yhKST_eH_Sv4&usqp=CAU" width="900" height="460">
+<img src="https://keybe.ai/en/wp-content/uploads/2020/01/download.png" width="350" height="230">
 
 ## AWS Trainning
 
