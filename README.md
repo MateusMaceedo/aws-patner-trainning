@@ -1,4 +1,4 @@
-<img src="https://keybe.ai/en/wp-content/uploads/2020/01/download.png" width="350" height="230">
+<img src="https://keybe.ai/en/wp-content/uploads/2020/01/download.png" width="250" height="130">
 
 ## AWS Trainning
 
