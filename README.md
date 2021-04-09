@@ -24,7 +24,7 @@ Links and materials made available as additional content for studies in AWS trai
 - [X] Seja um certificado AWS!
 - [X] Aproveite os [benefícios](https://aws.amazon.com/certification/benefits/) concedidos só a quem tem certificações AWS
 
-### AWS Certification Categories
+### AWS Categories
 - Practitioner
 - Solutions Architect Associate
 - Developer Associate
