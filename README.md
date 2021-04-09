@@ -23,3 +23,17 @@ Links and materials made available as additional content for studies in AWS trai
 - [X] Adicione [30 minutos a mais](https://www.linkedin.com/pulse/30-minute-extension-your-aws-certification-exam-garcia-lozano/) em seu exame com o **_ESL +30 MINUTES_** (disponível para não-nativos de língua inglesa) 
 - [X] Seja um certificado AWS!
 - [X] Aproveite os [benefícios](https://aws.amazon.com/certification/benefits/) concedidos só a quem tem certificações AWS
+
+### AWS Certification Categories
+- Practitioner
+- Solutions Architect Associate
+- Developer Associate
+- SysOps Administrator
+- Devops Engineer Professional
+- Solutions Architect Professional
+- Advanced Networking Speciality
+- Security Speciality
+- Database Speciality
+- Data Analytics Speciality
+- Machine Learning Speciality
+- Alexa Skill builder Speciality
