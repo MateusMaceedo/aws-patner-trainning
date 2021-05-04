@@ -6,6 +6,7 @@
 # in the "terraform" namespace on Dockerhub; those images include only
 # the officially-released binary from releases.hashicorp.com and are
 # built by the (closed-source) official release process.
+# TEMPLATE FOLDER DATA TRAVELER
 
 FROM docker.mirror.temp.services/golang:alpine
 LABEL maintainer="HashiCorp Team <mateusouza2014@live.com">
