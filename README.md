@@ -39,7 +39,7 @@ Links and materials made available as additional content for studies in AWS trai
 - Alexa Skill builder Speciality
 
 <h1 align="center">
-<img src="https://github.com/MateusMaceedo/aws-patner-trainning/blob/main/img/Amazon.png?raw=true" width="1166" height="554">
+<img src="https://github.com/MateusMaceedo/aws-patner-trainning/blob/main/img/Amazon.png?raw=true" width="1160" height="554">
  <br>
  AWS (Sem Vercel)
 </h1>
