@@ -41,5 +41,5 @@ Links and materials made available as additional content for studies in AWS trai
 <h1 align="center">
 <img src="https://github.com/MateusMaceedo/aws-patner-trainning/blob/main/img/Amazon.png?raw=true" width="1166" height="554">
  <br>
- AWS Trainning
+ AWS (Sem Vercel)
 </h1>
