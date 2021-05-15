@@ -4,6 +4,8 @@
  AWS Trainning
 </h1>
 
+![Build Status](https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiSkJibVVQVEpvUms1cmw3YVlnU1hSdkpBQ0c5SFgyTkJXMFBFdEU2SWtySHREcUlUVlRhbW4zMEd3NlhsOWIzUWgvRkxhUWVSSTFPZGNNakNHRVNLalY0PSIsIml2UGFyYW1ldGVyU3BlYyI6IlV0QjBRZXRvS0F5dE5vbTciLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
 Links and materials made available as additional content for studies in AWS training. The information entered here is maintained by myself, and does not express any official information on the part of AWS; even though most of them are official articles and blog posts from Amazon Web Services.
 
 ### Certificações
