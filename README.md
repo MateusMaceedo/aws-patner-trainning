@@ -40,6 +40,26 @@ Links and materials made available as additional content for studies in AWS trai
 - Machine Learning Speciality
 - Alexa Skill builder Speciality
 
+Steps to build Standard 5.0 image
+
+* Run `git clone https://github.com/aws/aws-codebuild-docker-images.git` to download this repository to your local machine
+* Run `cd ubuntu/standard/5.0` to change the directory in your local workspace. This is the location of the Standard 5.0 Dockerfile with Ubuntu base.
+* Run `docker build -t aws/codebuild/standard:5.0 .` to build Docker image locally
+
+To poke around in the image interactively, build it and run:
+`docker run -it --entrypoint sh aws/codebuild/standard:5.0 -c bash`
+
+To let the Docker daemon start up in the container, build it and run:
+`docker run -it --privileged aws/codebuild/standard:5.0 bash`
+
+```
+$ git clone https://github.com/aws/aws-codebuild-docker-images.git
+$ cd aws-codebuild-docker-images
+$ cd ubuntu/standard/5.0
+$ docker build -t aws/codebuild/standard:5.0 .
+$ docker run -it --entrypoint sh aws/codebuild/standard:5.0 -c bash
+```
+
 <h1 align="center">
 <img src="https://github.com/MateusMaceedo/aws-patner-trainning/blob/main/img/Amazon.png?raw=true" width="1160" height="554">
  <br>
