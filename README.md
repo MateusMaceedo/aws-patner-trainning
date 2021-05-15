@@ -42,7 +42,7 @@ Links and materials made available as additional content for studies in AWS trai
 
 Steps to build Standard 5.0 image
 
-* Run `git clone https://github.com/aws/aws-codebuild-docker-images.git` to download this repository to your local machine
+* Run `git clone https://github.com/MateusMaceedo/aws-patner-trainning.git` to download this repository to your local machine
 * Run `cd ubuntu/standard/5.0` to change the directory in your local workspace. This is the location of the Standard 5.0 Dockerfile with Ubuntu base.
 * Run `docker build -t aws/codebuild/standard:5.0 .` to build Docker image locally
 
@@ -53,7 +53,7 @@ To let the Docker daemon start up in the container, build it and run:
 `docker run -it --privileged aws/codebuild/standard:5.0 bash`
 
 ```
-$ git clone https://github.com/aws/aws-codebuild-docker-images.git
+$ git clone https://github.com/MateusMaceedo/aws-patner-trainning.git
 $ cd aws-codebuild-docker-images
 $ cd ubuntu/standard/5.0
 $ docker build -t aws/codebuild/standard:5.0 .
